@@ -1,0 +1,6 @@
+.active_route {
+  text-decoration: underline;
+}
+.nav-link.active {
+  text-decoration: underline;
+}
